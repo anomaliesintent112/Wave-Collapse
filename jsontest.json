@@ -1,0 +1,38 @@
+{"block1" : {
+	"face1" : "-0",
+	"face2" : "1_f",
+	"face3" : "-1f",
+	"face4" : "2_2",
+	"face5" : "2a",
+	"face6" : "0_1"},
+"block2" : {
+	"face1" : "0_1",
+	"face2" : "-1f",
+	"face3" : "1_f",
+	"face4" : "2_2",
+	"face5" : "2_a",
+	"face6" : "0"},
+"block3" : {
+	"face1" : "0_0",
+	"face2" : "-1f",
+	"face3" : "1_f",
+	"face4" : "-2",
+	"face5" : "2_a",
+	"face6" : "0_2"},
+"block4" : {
+	"face1" : "0_0",
+	"face2" : "-1f",
+	"face3" : "1_f",
+	"face4" : "2",
+	"face5" : "2a",
+	"face6" : "0_1"},
+"block5" : {
+	"face1" : "0_3",
+	"face2" : "1f",
+	"face3" : "1f",
+	"face4" : "-2",
+	"face5" : "2a",
+	"face6" : "0_1"}
+}
+
+	
