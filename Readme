@@ -1,1 +1,3 @@
 this is my hand written version of a wave function collapse in C++ I will be designing it to integrate into UE4 so it can be used in game design 
+command used to compile wave64.exe
+x86_64-w64-mingw32-g++ -o wave64.exe wavetry2.cc -static
